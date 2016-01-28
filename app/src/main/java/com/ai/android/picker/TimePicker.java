@@ -1,7 +1,5 @@
 package com.ai.android.picker;
 
-import java.util.Calendar;
-
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
@@ -11,6 +9,8 @@ import android.widget.FrameLayout;
 import android.widget.TextSwitcher;
 
 import com.ai.android.picker.NumberPicker.OnValueChangeListener;
+
+import java.util.Calendar;
 
 public class TimePicker extends FrameLayout implements OnClickListener {
 
@@ -84,7 +84,7 @@ public class TimePicker extends FrameLayout implements OnClickListener {
 			if (mCalendar.get(Calendar.AM_PM) == Calendar.PM) {
 				isAm = false;
 				timeSwitcher.setText("pm");
-			} else {
+			}git   else {
 				isAm = true;
 				timeSwitcher.setText("am");
 			}
@@ -101,6 +101,7 @@ public class TimePicker extends FrameLayout implements OnClickListener {
 
 	public void setIs24Hour(boolean is24Hour) {
 		this.is24Hour = is24Hour;
+
 	}
 
 	public String getTime() {

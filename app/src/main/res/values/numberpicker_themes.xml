@@ -88,8 +88,6 @@
         <item name="android:background">@null</item>
     </style>
 
-    <style name="AiWidget.EditText" parent="AiWidget.EditText"></style>
-
     <style name="AiWidget.EditText">
         <item name="android:focusable">true</item>
         <item name="android:focusableInTouchMode">true</item>
