@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

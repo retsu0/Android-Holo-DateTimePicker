@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Holo-DateTimePicker.iml" filepath="$PROJECT_DIR$/Android-Holo-DateTimePicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-holo-date-time-picker/android-holo-date-time-picker.iml" filepath="$PROJECT_DIR$/android-holo-date-time-picker/android-holo-date-time-picker.iml" />
     </modules>
   </component>
 </project>

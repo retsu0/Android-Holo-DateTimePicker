@@ -1,0 +1,9 @@
+-classpath '/home/retsu/AndroidSDK/platforms/android-23/android.jar'
+-d '/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/docs/javadoc'
+-doctitle 'android-holo-date-time-picker 1.0.0 API'
+-quiet 
+-windowtitle 'android-holo-date-time-picker 1.0.0 API'
+'/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/java/com/ai/android/picker/TimePicker.java'
+'/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/java/com/ai/android/picker/Scroller.java'
+'/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/java/com/ai/android/picker/DatePicker.java'
+'/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/java/com/ai/android/picker/NumberPicker.java'

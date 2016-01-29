@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_down_btn_holo_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/drawable/np_numberpicker_down_btn_holo_dark.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_up_btn_holo_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/drawable/np_numberpicker_up_btn_holo_dark.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_up_btn_holo_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/drawable/np_numberpicker_up_btn_holo_dark.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_up_btn_holo_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/drawable/np_numberpicker_up_btn_holo_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_down_btn_holo_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/drawable/np_numberpicker_down_btn_holo_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_down_btn_holo_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/drawable/np_numberpicker_down_btn_holo_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_up_btn_holo_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/drawable/np_numberpicker_up_btn_holo_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/drawable/np_numberpicker_down_btn_holo_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/drawable/np_numberpicker_down_btn_holo_dark.xml"
+    }
+]

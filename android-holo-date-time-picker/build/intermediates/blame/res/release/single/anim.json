@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/release/anim/slide_from_right_slow.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/anim/slide_from_right_slow.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/release/anim/slide_from_right_slow.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/anim/slide_from_right_slow.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/release/anim/slide_to_left_slow.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/anim/slide_to_left_slow.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/release/anim/slide_to_left_slow.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/anim/slide_to_left_slow.xml"
+    }
+]

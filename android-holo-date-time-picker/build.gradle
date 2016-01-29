@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'android-holo-date-time-picker'
+
+    publishedGroupId = 'info.retsu'
+    libraryName = 'android-holo-date-time-picker'
+    artifact = 'android-holo-date-time-picker'
+
+    libraryDescription = 'Android-Holo-DateTimePicker is a opensource project for the android TimePicker, DatePicker and NumberPicker with holo theme on any android sdk version above sdk version 8.'
+
+    siteUrl = 'https://github.com/retsu0/Android-Holo-DateTimePicker'
+    gitUrl = 'https://github.com/retsu0/Android-Holo-DateTimePicker'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'retsu'
+    developerName = 'retsu.Yang'
+    developerEmail = 'retsu0@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.1.1'
+    compile files('libs/nineoldandroids-2.3.0.jar')
+}
+
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

@@ -1,0 +1,1052 @@
+[
+    {
+        "outputFile": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 65,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endColumn": 66,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 64,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 65,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 55,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 56,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 63,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 64,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 56,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 56,
+                        "endOffset": 69
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 64,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 64,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 71,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 71,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 71,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 71,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 113,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 113,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 121,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 125,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 44,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 3192
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3197,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3313
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2488,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3318,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4330,
+                        "endLine": 97,
+                        "endColumn": 12,
+                        "endOffset": 4769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4247
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3839,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 4324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4252,
+                    "endColumn": 114,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3278,
+                        "endColumn": 121,
+                        "endOffset": 3395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4647
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5419,
+                        "endLine": 118,
+                        "endColumn": 12,
+                        "endOffset": 5699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4652,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 5095,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3617,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5510
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 5089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5515,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3401,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 78,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3191,
+                        "endColumn": 85,
+                        "endOffset": 3272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 6378
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2610,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6383,
+                    "endColumn": 57,
+                    "endOffset": 6436
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 65,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endColumn": 66,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 64,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 65,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 55,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 56,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 63,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 64,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 56,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 56,
+                        "endOffset": 69
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 64,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 64,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 71,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 71,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 71,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 71,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 113,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 113,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 121,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 125,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 44,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 3192
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3197,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3313
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2488,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3318,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4330,
+                        "endLine": 97,
+                        "endColumn": 12,
+                        "endOffset": 4769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4247
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3839,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 4324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4252,
+                    "endColumn": 114,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3278,
+                        "endColumn": 121,
+                        "endOffset": 3395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4647
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5419,
+                        "endLine": 118,
+                        "endColumn": 12,
+                        "endOffset": 5699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4652,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 5095,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3617,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5510
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 5089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5515,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3401,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 78,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3191,
+                        "endColumn": 85,
+                        "endOffset": 3272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 6378
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/numberpicker_themes.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2610,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6383,
+                    "endColumn": 57,
+                    "endOffset": 6436
+                },
+                "from": {
+                    "file": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

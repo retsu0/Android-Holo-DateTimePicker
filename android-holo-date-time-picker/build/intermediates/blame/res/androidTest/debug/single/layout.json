@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/number_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/number_picker.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/activity_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/activity_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/activity_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/activity_dark.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/date_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/date_picker.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/activity_light.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/activity_light.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/activity_samples.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/activity_samples.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/time_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/time_picker.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/activity_dark.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/activity_dark.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/activity_samples.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/activity_samples.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/time_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/time_picker.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/res/merged/androidTest/debug/layout/number_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/android-holo-date-time-picker/build/intermediates/bundles/debug/res/layout/number_picker.xml"
+    },
+    {
+        "merged": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/res/merged/androidTest/debug/layout/date_picker.xml",
+        "source": "/home/retsu/AndroidStudioProjects/Android-Holo-DateTimePicker/app/build/intermediates/bundles/debug/res/layout/date_picker.xml"
+    }
+]
