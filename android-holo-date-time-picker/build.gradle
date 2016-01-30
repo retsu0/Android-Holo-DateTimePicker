@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/retsu0/Android-Holo-DateTimePicker'
     gitUrl = 'https://github.com/retsu0/Android-Holo-DateTimePicker'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'retsu'
     developerName = 'retsu.Yang'

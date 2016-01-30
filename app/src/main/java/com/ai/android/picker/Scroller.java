@@ -533,9 +533,6 @@ public class Scroller
         mFinished = false;
     }
 
-    /**
-     * @hide
-     */
     public boolean isScrollingInDirection(float xvel, float yvel)
     {
         return !mFinished && Math.signum(xvel) == Math.signum(mFinalX - mStartX) &&

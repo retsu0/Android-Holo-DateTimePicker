@@ -106,6 +106,7 @@ public class Scroller
 
     /**
      * Create a Scroller with the default duration and interpolator.
+     * @param context Context
      */
     public Scroller(Context context)
     {
@@ -116,6 +117,8 @@ public class Scroller
      * Create a Scroller with the specified interpolator. If the interpolator is
      * null, the default (viscous) interpolator will be used. "Flywheel" behavior will
      * be in effect for apps targeting Honeycomb or newer.
+     * @param context Context
+     * @param interpolator Interpolator
      */
     public Scroller(Context context, Interpolator interpolator)
     {
@@ -127,6 +130,9 @@ public class Scroller
      * Create a Scroller with the specified interpolator. If the interpolator is
      * null, the default (viscous) interpolator will be used. Specify whether or
      * not to support progressive "flywheel" behavior in flinging.
+     * @param context Context
+     * @param interpolator Interpolator
+     * @param flywheel flywheel
      */
     public Scroller(Context context, Interpolator interpolator, boolean flywheel)
     {
@@ -262,6 +268,8 @@ public class Scroller
      * Call this when you want to know the new location.  If it returns true,
      * the animation is not yet finished.  loc will be altered to provide the
      * new location.
+     *
+     * @return true if the animation is not yet finished
      */
     public boolean computeScrollOffset()
     {
@@ -534,7 +542,10 @@ public class Scroller
     }
 
     /**
-     * @hide
+     * isScrollingInDirection
+     * @param xvel xvel
+     * @param yvel yvel
+     * @return isScrollingInDirection
      */
     public boolean isScrollingInDirection(float xvel, float yvel)
     {
